@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">MyFruit</string>
+
+    <string name="fruites_name">Nama Buah</string>
+    <string name="description">Deskripsi</string>
+    <string name="fruites_khasiat">Khasiat</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string name="nama">Nama : </string>
+    <string name="university">Nama Kampus : </string>
+    <string name="semester">Semester : </string>
+    <string name="jurusan">Jurusan : </string>
+
+    <string name="content_specs_name">Dea Ayuninda</string>
+    <string name="content_specs_university">STMIK Amika Soppeng</string>
+    <string name="content_specs_semester">5</string>
+    <string name="content_specs_jurusan">Manajemen Informatika</string>
+
+    <string name="move_myfruit">Back to My Fruit</string>
+    <string name="name_fruit">Nama Buah</string>
+    <string name="tv_deskripsi">Deskripsi</string>
+    <string name="tv_khasiat">Khasiat</string>
+
+
+    <string-array name="data_name">
+        <item>Alpukat</item>
+        <item>Apel</item>
+        <item>Belimbing</item>
+        <item>Jambu Biji</item>
+        <item>Jeruk</item>
+        <item>Melon</item>
+        <item>Buah Naga</item>
+        <item>Nanas</item>
+        <item>Pepaya</item>
+        <item>Pisang</item>
+        <item>Sirsak</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Alpukat atau avokad adalah tumbuhan penghasil buah meja dengan nama sama. Tumbuhan ini berasal dari Meksiko dan Amerika Tengah dan kini banyak dibudidayakan di Amerika Selatan dan Amerika Tengah sebagai tanaman perkebunan monokultur dan sebagai tanaman pekarangan di daerah-daerah tropika lainnya di dunia.</item>
+        <item>Apel merupakan jenis buah-buahan, atau buah yang dihasilkan dari pohon apel. Buah apel biasanya berwarna merah kulitnya jika masak dan siap dimakan, tetapi bisa juga kulitnya berwarna hijau atau kuning. Kulit buahnya agak lembek dan daging buahnya keras. Buah apel memiliki beberapa biji di dalamnya.</item>
+        <item>Belimbing adalah tumbuhan penghasil buah berbentuk khas yang berasal dari Indonesia, India, dan Sri Lanka. Saat ini, belimbing telah tersebar ke penjuru Asia Tenggara, Republik Dominika, Brasil, Peru, Ghana, Guyana, Tonga, dan Polinesia.</item>
+        <item>Jambu biji atau sering juga disebut jambu batu, jambu siki dan jambu klutuk adalah tanaman tropis yang berasal dari Brasil, disebarkan ke Indonesia melalui Thailand. Jambu batu memiliki buah yang berwarna hijau dengan daging buah berwarna hijau atau merah dan berasa asam-manis. Buah jambu batu dikenal mengandung banyak vitamin C.</item>
+        <item>Jeruk (bahasa Inggris: orange) adalah buah dari spesies citrus dalam famili Rutaceae. Istilah "jeruk" umumnya mengacu pada Citrus × sinensis[1] yang juga disebut jeruk manis dan Citrus aurantium yang disebut jeruk pahit. Jeruk manis bereproduksi secara aseksual (apomiksis melalui nucellar embryony), yaitu melalui sistem cangkok, okulasi, setek, dan varietas jeruk manis muncul melalui mutasi.</item>
+        <item>Melon merupakan nama buah sekaligus tanaman yang menghasilkannya yang termasuk dalam suku labu-labuan atau Cucurbitaceae. Buanya bisa dimakan segar sebagai buah meja atau diiris-iris sebagai campuran es buah. Bagian yang dimakan adalah daging buah (mesokarp). Teksturnya lunak, berwarna putih,kuning sampai merah, tergantung kultivarnya.</item>
+        <item>Buah naga adalah buah dari beberapa jenis kaktus dari genus Hylocereus dan Selenicereus. Buah ini berasal dari Meksiko, Amerika Tengah dan Amerika Selatan namun sekarang juga dibudidayakan di negara-negara Asia seperti Taiwan, Vietnam, Filipina, Indonesia dan Malaysia. Buah ini juga dapat ditemui di Okinawa, Israel, Australia utara dan Tiongkok selatan.</item>
+        <item>Nanas adalah tumbuhan tropis dengan buah yang dapat dimakan dan tumbuhan yang paling penting secara ekonomi dalam famili Bromeliaceae.[4] Nanas adalah tumbuhan asli Amerika Selatan, dan telah dibudidayakan disana selama berabad-abad.</item>
+        <item>Pepaya adalah tumbuhan yang diperkirakan berasal dari Meksiko bagian selatan dan bagian utara dari Amerika Selatan.[1] Pepaya kini telah menyebar luas dan banyak ditanam di seluruh daerah tropis untuk diambil buahnya. C. papaya adalah satu-satunya jenis dalam genus Carica.</item>
+        <item>Pisang adalah nama umum yang diberikan pada tumbuhan terna berukuran besar dengan daun memanjang dan besar yang tumbuh langsung dari bagian tangkai. Batang pisang bersifat lunak karena terbentuk dari lapisan pelepah yang lunak dan panjang.</item>
+        <item>Sirsak adalah tumbuhan berbunga yang berasal dari Karibia, Amerika Tengah dan Amerika Selatan. Di berbagai daerah Indonesia dikenal sebagai nangka sebrang, nangka landa (Jawa), nangka walanda, sirsak (Sunda), nangka buris, nangkèlan, nangka ènglan (Madura), srikaya jawa (Bali), boh lôna (Aceh), durio ulondro (Nias), durian betawi (Minangkabau), durian belanda (Malaysia), serta jambu landa (di Lampung, "Nangko Belando" (Palembang).</item>
+    </string-array>
+
+    <string-array name="data_khasiat">
+        <item>Alpukat atau avokad adalah tumbuhan penghasil buah meja dengan nama sama. Tumbuhan ini berasal dari Meksiko dan Amerika Tengah dan kini banyak dibudidayakan di Amerika Selatan dan Amerika Tengah sebagai tanaman perkebunan monokultur dan sebagai tanaman pekarangan di daerah-daerah tropika lainnya di dunia.</item>
+        <item>Apel merupakan jenis buah-buahan, atau buah yang dihasilkan dari pohon apel. Buah apel biasanya berwarna merah kulitnya jika masak dan siap dimakan, tetapi bisa juga kulitnya berwarna hijau atau kuning. Kulit buahnya agak lembek dan daging buahnya keras. Buah apel memiliki beberapa biji di dalamnya.</item>
+        <item>Belimbing adalah tumbuhan penghasil buah berbentuk khas yang berasal dari Indonesia, India, dan Sri Lanka. Saat ini, belimbing telah tersebar ke penjuru Asia Tenggara, Republik Dominika, Brasil, Peru, Ghana, Guyana, Tonga, dan Polinesia.</item>
+        <item>Jambu biji atau sering juga disebut jambu batu, jambu siki dan jambu klutuk adalah tanaman tropis yang berasal dari Brasil, disebarkan ke Indonesia melalui Thailand. Jambu batu memiliki buah yang berwarna hijau dengan daging buah berwarna hijau atau merah dan berasa asam-manis. Buah jambu batu dikenal mengandung banyak vitamin C.</item>
+        <item>Jeruk (bahasa Inggris: orange) adalah buah dari spesies citrus dalam famili Rutaceae. Istilah "jeruk" umumnya mengacu pada Citrus × sinensis[1] yang juga disebut jeruk manis dan Citrus aurantium yang disebut jeruk pahit. Jeruk manis bereproduksi secara aseksual (apomiksis melalui nucellar embryony), yaitu melalui sistem cangkok, okulasi, setek, dan varietas jeruk manis muncul melalui mutasi.</item>
+        <item>Melon merupakan nama buah sekaligus tanaman yang menghasilkannya yang termasuk dalam suku labu-labuan atau Cucurbitaceae. Buanya bisa dimakan segar sebagai buah meja atau diiris-iris sebagai campuran es buah. Bagian yang dimakan adalah daging buah (mesokarp). Teksturnya lunak, berwarna putih,kuning sampai merah, tergantung kultivarnya.</item>
+        <item>Buah naga adalah buah dari beberapa jenis kaktus dari genus Hylocereus dan Selenicereus. Buah ini berasal dari Meksiko, Amerika Tengah dan Amerika Selatan namun sekarang juga dibudidayakan di negara-negara Asia seperti Taiwan, Vietnam, Filipina, Indonesia dan Malaysia. Buah ini juga dapat ditemui di Okinawa, Israel, Australia utara dan Tiongkok selatan.</item>
+        <item>Nanas adalah tumbuhan tropis dengan buah yang dapat dimakan dan tumbuhan yang paling penting secara ekonomi dalam famili Bromeliaceae.[4] Nanas adalah tumbuhan asli Amerika Selatan, dan telah dibudidayakan disana selama berabad-abad.</item>
+        <item>Pepaya adalah tumbuhan yang diperkirakan berasal dari Meksiko bagian selatan dan bagian utara dari Amerika Selatan.[1] Pepaya kini telah menyebar luas dan banyak ditanam di seluruh daerah tropis untuk diambil buahnya. C. papaya adalah satu-satunya jenis dalam genus Carica.</item>
+        <item>Pisang adalah nama umum yang diberikan pada tumbuhan terna berukuran besar dengan daun memanjang dan besar yang tumbuh langsung dari bagian tangkai. Batang pisang bersifat lunak karena terbentuk dari lapisan pelepah yang lunak dan panjang.</item>
+        <item>Sirsak adalah tumbuhan berbunga yang berasal dari Karibia, Amerika Tengah dan Amerika Selatan. Di berbagai daerah Indonesia dikenal sebagai nangka sebrang, nangka landa (Jawa), nangka walanda, sirsak (Sunda), nangka buris, nangkèlan, nangka ènglan (Madura), srikaya jawa (Bali), boh lôna (Aceh), durio ulondro (Nias), durian betawi (Minangkabau), durian belanda (Malaysia), serta jambu landa (di Lampung, "Nangko Belando" (Palembang).</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/alpukat</item>
+        <item>@drawable/apel</item>
+        <item>@drawable/belimbing</item>
+        <item>@drawable/jambubiji</item>
+        <item>@drawable/jeruk</item>
+        <item>@drawable/melon</item>
+        <item>@drawable/naga</item>
+        <item>@drawable/nanas</item>
+        <item>@drawable/pepaya</item>
+        <item>@drawable/pisang</item>
+        <item>@drawable/sirsak</item>
+    </integer-array>
+</resources>
